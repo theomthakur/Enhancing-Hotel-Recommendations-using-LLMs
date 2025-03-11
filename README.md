@@ -1,4 +1,4 @@
-# Enhancing Hotel Recommendations Using LLMs (GPT-2)
+# Project Title: Airbnb Recommendation System Using GPT-2 and RAG
 
 This project enhances hotel recommendations using **Large Language Models (LLMs)**, specifically GPT-2, to provide personalized suggestions based on user input and preferences. It leverages NLP techniques and various Python libraries for efficient data processing and model training.
 
